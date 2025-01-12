@@ -4,13 +4,17 @@ lua54 'yes'
 
 client_script 'client.lua'
 
+loadscreen 'ui/dist/index.html'
 
-ui_page 'ui/dist/index.html'
+loadscreen_cursor 'yes'
+
+loadscreen_manual_shutdown 'yes'
 
 files {
     'ui/dist/index.html',
     'ui/dist/assets/*.css',
     'ui/dist/assets/*.js',
-    'ui/dist/assets/*.mp3',
+    'ui/images/*.png',
+    'ui/song/*.mp3',
 }
 
