@@ -4,9 +4,8 @@
 > **REACT & SCSS**
 > The resource is written with react and using scss for styling to ensure the best performance of the resource
 
-
-Need Support
-[Discord](https://discord.gg/fG8gtywEZ5)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HWejPwZgvQ)
+[![Website](https://img.shields.io/badge/Tebex-%23e62e56.svg?style=for-the-badge&logo=Tebex&logoColor=white)](https://al-studios.tebex.io/)
 
 
 ## Copyright
