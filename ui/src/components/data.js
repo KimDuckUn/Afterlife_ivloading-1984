@@ -4,7 +4,7 @@ export const slides = [
     {
         id: 'paleto',
         label: 'Paleto Bay',
-        quote: 'Humans can be museums too, filled with history they can no longer touch',
+        quote: 'Pooping My Pants',
     },
     {
         id: 'union',
